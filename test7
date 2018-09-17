@@ -1,0 +1,62 @@
+{{BLP sources|date=April 2018}}
+{{Infobox scientist
+| name          	= Holly Rushmeier
+| image         	=
+| death_date    	=
+| death_place   	=
+| citizenship   	=
+| nationality   	=
+| ethnicity     	=
+| field         	= [[Computer science]] <br> [[Mechanical engineering]]
+| work_institution  = [[Yale University]] <br> [[Thomas J. Watson Research Center|T. J. Watson Research Center]] <br> [[National Institute of Standards and Technology|NIST]] <br> [[Georgia Institute of Technology|Georgia Tech]]
+| alma_mater    	= [[Cornell University]] (B.S., M.S., Ph.D.)
+| doctoral_advisor  = Kenneth Torrance
+| known_for     	=
+| religion      	=
+| footnotes     	=
+}}
+'''Holly Rushmeier''' is an American [[computer science|computer scientist]] and professor at [[Yale University]]. She is known for her contributions to the field of [[computer graphics]].
+
+==Biography==
+
+Rushmeier has received three degrees in [[mechanical engineering]] from [[Cornell University]]: the [[Bachelor of Science|B.S.]] in 1977, the [[Master of Science|M.S.]] in 1986, and the [[Doctor of Philosophy|Ph.D.]] in 1988. Before returning to graduate school in 1983, she worked in [[Seattle]] as an engineer at [[Boeing Commercial Airplanes]] and Washington Natural Gas.
+
+While at Cornell, Rushmeier collaborated with Kenneth Torrance and [[Donald P. Greenberg]]. After obtaining her Ph.D., Rushmeier joined the mechanical engineering faculty as an assistant professor at [[Georgia Institute of Technology|Georgia Tech]], where she taught courses on heat transfer and numerical methods and conducted research on computer graphics image synthesis. She left in 1991 to join the [[National Institute of Standards and Technology]], where she focused on [[scientific visualization|scientific data visualization]]. She continued to investigate problems in data visualization as a staff member at the [[IBM]] [[Thomas J. Watson Research Center]] from 1996 to 2004. She then assumed her current position as professor of computer science at [[Yale University]], where she served as chair of the department from 2011 to 2014. With [[Julie Dorsey]], she leads the computer graphics laboratory at Yale.
+
+==Work==
+Rushmeier is particularly interested in [[3D scanner|scanning]] and [[3D modeling|modeling]] shape and appearance, as well as the applications of computer graphics in [[cultural heritage]]. At IBM, she worked on the project to create a 3D model of [[Michelangelo]]'s [[The Deposition (Michelangelo)|Florence Pietà]], as well as the Eternal Egypt collaboration between IBM and the government of [[Egypt]] to build a digital showcase of the country's cultural artifacts.
+
+Rushmeier is also noted for her work on global illumination, material capture, and the display of [[high-dynamic-range imaging|high-dynamic-range images]]. Her contributions to the field of computer graphics include the development of methods for solving for illumination in the presence of participating media (i.e. environments such as fog and murky water that affect the light passing through them) and the extension of the [[radiosity (computer graphics)|radiosity]] method to handle [[specular reflection|specular]] [[bidirectional reflectance distribution function|BRDFs]].
+
+She has served in numerous editorial and technical capacities, including editor-in-chief of [[ACM Transactions on Graphics]] from 1996 to 1999, editor of [[Institute of Electrical and Electronics Engineers|IEEE]] Transactions on Visualization and Computer Graphics from 1996 to 1998, and co-editor-in-chief of Computer Graphics Forum from 2010 to 2014. She was chair of the papers committee for [[Association for Computing Machinery|ACM]] [[SIGGRAPH]] in 1996 and co-chair of the IEEE Visualization papers committee in 1998, 2004, and 2005. She is an ACM Distinguished Engineer, a 2016 Fellow of the ACM,<ref>{{citation|title=ACM Recognizes New Fellows|journal=[[Communications of the ACM]]|date=March 2017|volume=60|issue=3|page=23|doi=10.1145/3039921}}.</ref> a 2011 Fellow of the [[Eurographics]] Association, and the recipient of the 2013 ACM [[SIGGRAPH]] Computer Graphics Achievement Award.
+
+==Selected publications==
+
+* {{cite book| last1=Dorsey| first1=Julie| last2=Rushmeier| first2=Holly| last3=Sillion| first3=François| title=Digital Modeling of Material Appearance| publisher=Morgan Kaufmann Publishers Inc.| location=San Francisco, CA| date=2007| isbn=9780122211812}}
+* {{cite journal| last1 =Bernardini| first1=Fausto| last2=Rushmeier| first2=Holly| last3=Martin| first3=Ioana M.| last4=Mittleman| first4=Joshua| last5=Taubin| first5=Gabriel| title=Building a Digital Model of Michelangelo's ''Florentine Pietà''| journal=[[Institute of Electrical and Electronics Engineers|IEEE]] Computer Graphics and Applications| year=2002| volume=22| pages=59–67| url=http://mesh.brown.edu/taubin/pdfs/bernardini-etal-cga02.pdf| doi= 10.1109/38.974519}}
+* {{cite journal| last1 =Bernardini| first1=Fausto| last2=Mittleman| first2=Joshua| last3=Rushmeier| first3=Holly| last4=Silva| first4= Cláudio| last5=Taubin| first5=Gabriel| title=The Ball-Pivoting Algorithm for Surface Reconstruction| journal=[[Institute of Electrical and Electronics Engineers|IEEE]] Transactions on Visualization and Computer Graphics| year=1999| volume=5| pages=349–359| url=http://vgc.poly.edu/~csilva/papers/tvcg99.pdf| doi= 10.1109/2945.817351}}
+* {{cite journal| last1=Larson| first1=Gregory Ward| last2=Rushmeier| first2=Holly| last3=Piatko| first3=Christine| title=A Visibility Matching Tone Reproduction Operator for High Dynamic Range Scenes| journal=[[Institute of Electrical and Electronics Engineers|IEEE]] Transactions on Visualization and Computer Graphics| year=1997| volume=3| pages=291–306 |url=http://graphics.cs.yale.edu/site/sites/files/1997TVCG_HDR_ToneMapping.pdf| doi= 10.1109/2945.646233}}
+* {{cite journal| last1=Chen| first1=Shenchang Eric| last2=Rushmeier| first2=Holly E.| last3=Miller| first3=Gavin| last4=Turner| first4=Douglass| title=A Progressive Multi-Pass Method for Global Illumination| journal=[[SIGGRAPH]] Computer Graphics| year=1991| volume=25| pages=165–174 |url=https://www.academia.edu/1374041/A_progressive_multi-pass_method_for_global_illumination| doi= 10.1145/127719.122737}}
+* {{cite journal| last1=Rushmeier| first1=Holly E.| last2=Torrance| first2=Kenneth E.| title=The Zonal Method for Calculating Light Intensities in the Presence of a Participating Medium| journal=[[SIGGRAPH]] Computer Graphics| year=1987| volume=21| pages=293–302 |url=http://luthuli.cs.uiuc.edu/~daf/courses/rendering/papers/p293-rushmeier.pdf| doi= 10.1145/37401.37436}}
+* {{cite journal| last1 =Meyer| first1=Gary W.| last2=Rushmeier| first2=Holly E.| last3=Cohen| first3=Michael F.|author3link=Michael F. Cohen| last4=Greenberg| first4= Donald P.| last5=Torrance| first5=Kenneth E.| title=An Experimental Evaluation of Computer Graphics Imagery| journal=[[ACM Transactions on Graphics]]| year=1986| volume=5| pages=30–50| url=http://www-users.cs.umn.edu/~meyer/papers/meyer-rushmeier-tog-1986.pdf| doi= 10.1145/7529.7920}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://graphics.cs.yale.edu/site/people/holly-rushmeier/ Rushmeier's home page at the Yale Computer Graphics Laboratory]
+* [https://www.eg.org/index.php/about-eg/organization/45-eg-members/eg-members/174-holly-rushmeier-4060 Rushmeier's biography on the Eurographics website]
+* [http://casemembers.wildapricot.org/Sys/PublicProfile/30557252/1086086 Rushmeier's profile in the Connecticut Academy of Science and Engineering]
+* [http://awards.acm.org/award_winners/rushmeier_3463221.cfm Rushmeier's profile at ACM]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rushmeier, Holly}}
+[[Category:Living people]]
+[[Category:American computer scientists]]
+[[Category:Women computer scientists]]
+[[Category:Computer graphics researchers]]
+[[Category:Cornell University alumni]]
+[[Category:Yale University faculty]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Fellows of the Association for Computing Machinery]]
